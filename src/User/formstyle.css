@@ -1,0 +1,11 @@
+.user-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .user-details {
+    font-size: 20px;
+    margin: 2px;
+  }
